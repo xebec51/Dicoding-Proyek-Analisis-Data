@@ -1,6 +1,6 @@
 # Analisis Data E-Commerce Publik dengan Python - Dicoding
 
-<img src="dashboard.gif" alt="Dashboard Data E-Commerce" style="width:100%;"/>
+<img src="dashboard.gif" alt="Dashboard Data E-Commerce" width="300%"/>
 
 [Akses Dashboard](https://dicoding-data-analyst-ecommerce-naldi.streamlit.app/)
 
