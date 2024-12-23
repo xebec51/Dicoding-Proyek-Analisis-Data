@@ -1,6 +1,6 @@
 # Analisis Data E-Commerce Publik dengan Python - Dicoding
 
-![Dashboard Data E-Commerce](dashboard.gif)  
+<img src="dashboard.gif" alt="Dashboard Data E-Commerce" style="width:100%;"/>
 
 [Akses Dashboard](https://dicoding-data-analyst-ecommerce-naldi.streamlit.app/)
 
@@ -48,7 +48,7 @@ Akses di browser: http://localhost:8501
 
 ## Sumber Data
 
-Proyek ini menggunakan E-Commerce Public Dataset dari Dicoding Indonesia, yang disediakan sebagai bagian dari submission Proyek Akhir pada kelas [Belajar Analisis Data dengan Python's Final Project](https://drive.google.com/file/d/1MsAjPM7oKtVfJL_wRp1qmCajtSG1mdcK/view). Dataset ini berisi data transaksi penjualan dari sebuah platform e-commerce, yang digunakan untuk analisis dan visualisasi dalam proyek ini. [Dicoding](https://www.dicoding.com/)
+Proyek ini menggunakan E-Commerce Public Dataset dari Dicoding Indonesia, yang disediakan sebagai bagian dari submission Proyek Akhir pada kelas [Belajar Analisis Data dengan Python's Final Project](https://drive.google.com/file/d/1MsAjPM7oKtVfJL_wRp1qmCajtSG1mdcK/view). Dataset ini berisi data transaksi penjualan dari sebuah platform e-commerce, yang digunakan untuk analisis dan visualisasi dalam proyek ini. Sumber data ini disediakan oleh [Dicoding](https://www.dicoding.com/).
 
 ## Kontributor
 
